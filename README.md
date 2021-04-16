@@ -18,6 +18,8 @@ Contributors are advised to strictly cross-check their provided data before open
 
 Information Courtesy : [timesnownews.com](https://www.timesnownews.com/india/maharashtra-news/article/covid-19-vaccination-in-maharashtra-complete-list-of-govt-and-private-hospitals-to-get-inoculated/726351) </h6>
 
-<h6>(* Whilst the above information listed in the API has been researched, details provided in the above API are for unofficial use. I do not take any responsibility whatsoever for entities and individuals referring to the above information for personal use. Entities and individiuals using the above information will be solely responsible for any and every negative consequence that occur. It is advisable for entities and individuals to recheck, confirm and crosscheck the information provided through the websites and phone numbers provided, before use.)</h6>
+<h6>(* Whilst the above information listed in the API has been researched, details provided in the above API are for unofficial use. I do not take any responsibility whatsoever for entities and individuals referring to the above information for personal use. Entities and individiuals using the above information will be solely responsible for any and every negative consequence that occur. It is advisable for entities and individuals to recheck, confirm and crosscheck the information provided through the websites and phone numbers provided, before use.)</h6> <br />
 
-<!-- ## Running this on your system -->
+<!-- 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" height="50px" width="50px"> <img src="https://cdn.iconscout.com/icon/free/png-256/heroku-5-569467.png" height="50px" width="50px">
+## Running this on your system -->
