@@ -1,0 +1,84 @@
+{
+    "hospitals": [
+        {
+            "id": 1,
+            "hospital_name":"Apex Hospitals",
+            "hospital_type":"Government",
+            "city":"Mumbai",
+            "localities":"Dahisar, Kandivali, Govandi East, Mulund, Dombivli, Kalyan, Dadar, Malad West",
+            "contact_details":"Phone(Mulund): 9136665305 , Phone(Borivali): 9136665105, Web: https://apexgroupofhospitals.com/"
+        },
+        {
+            "id": 2,
+            "hospital_name":"Apex Multispeciality Hospitals",
+            "hospital_type":"Government",
+            "city":"Mumbai",
+            "localities":"Andheri East, Kopar Khairane, Mulund West, Borivali East, Borivali West, Mira Road, Mira Bhayandar",
+            "contact_details":"Phone: 022 2870 3377, Web: https://apexgroupofhospitals.com/ "
+        },
+        {
+            "id": 3,
+            "hospital_name":"Ashtvinayak Hospital & Super Speciality Hospital",
+            "hospital_type":"Government",
+            "city":"Mumbai",
+            "localities":"Borivali East, New Panvel East",
+            "contact_details":"Phone: 8882905905, Web: https://ashtvinayakhospital.in/"
+        },
+        {
+            "id": 4,
+            "hospital_name":"Asian Institute of Medical Sciences",
+            "hospital_type":"Government",
+            "city":"Mumbai",
+            "localities":"Dombivli East",
+            "contact_details":"Phone: 7506274959, 0251 6185000 , Web: https://www.aimshospital.co.in/ "
+        },
+        {
+            "id": 5,
+            "hospital_name":"Balaji Hospital",
+            "hospital_type":"Government",
+            "city":"Mumbai",
+            "localities":"Byculla East",
+            "contact_details":"Phone: 0222374 0000, Web: http://balajihospital.net/ "
+        },
+        {
+            "id": 6,
+            "hospital_name":"Dr. R.N.Patil's Suraj Hospital",
+            "hospital_type":"Government",
+            "city":"Navi Mumbai",
+            "localities":"Sanpada",
+            "contact_details":"Phone: 1800220705, Web: http://surajhospital.in/"
+        },
+        {
+            "id": 7,
+            "hospital_name":"Lifeline Multispeciality Hospital",
+            "hospital_type":"Government",
+            "city":"Mumbai",
+            "localities":"Malad West, Dahisar West, Mira Road East, Mira Bhayandar",
+            "contact_details":"Phone: 08048126387, +91-22-2807 4040 / 4208 6000, +91-22-2888 5001 / 2888 5006, Web: https://www.lifelinehospitalmumbai.in/"
+        },
+        {
+            "id": 8,
+            "hospital_name":"M/s S. S. Vaidya Health Care Pvt. Ltd",
+            "hospital_type":"Government",
+            "city":"Mumbai",
+            "localities":"Kalbadevi",
+            "contact_details":"Phone: Not provided , Website: Not provided "
+        },
+        {
+            "id": 9,
+            "hospital_name":"Mallika Hospital",
+            "hospital_type":"Government",
+            "city":"Mumbai",
+            "localities":"Jogeshwari West",
+            "contact_details":"Phone: +912226797171, Website: Not provided"
+        },
+        {
+            "id": 10,
+            "hospital_name":"MPCT Hospital",
+            "hospital_type":"Government",
+            "city":"Navi Mumbai",
+            "localities":"Sanpada",
+            "contact_details":"Phone: +912227750000, Web: https://mpcthospital.in/ "
+        }
+    ]
+}
